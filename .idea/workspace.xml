@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef113828-a02a-4332-bec1-d7b66a1e8f28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sistem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/Accessible.tlb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/AccessibleHandler.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/AccessibleMarshal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/IA2Marshal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-console-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-datetime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-debug-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-errorhandling-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-file-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-file-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-file-l2-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-handle-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-interlocked-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-libraryloader-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-localization-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-memory-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-namedpipe-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-processenvironment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-processthreads-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-processthreads-l1-1-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-profile-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-rtlsupport-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-synch-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-synch-l1-2-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-sysinfo-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-timezone-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-core-util-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-conio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-convert-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-environment-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-filesystem-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-heap-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-locale-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-math-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-multibyte-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-private-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-process-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-runtime-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-stdio-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-string-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-time-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/api-ms-win-crt-utility-l1-1-0.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/application.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/VisualElements/VisualElements_150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/VisualElements/VisualElements_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/blocklist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/chrome.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/crashreporter-override.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/aushelper@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/clicktoplay-rollout@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/e10srollout@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/firefox@getpocket.com.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/followonsearch@mozilla.com.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/screenshots@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/shield-recipe-client@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/features/webcompat@mozilla.org.xpi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/browser/omni.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/chrome.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/crashreporter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/crashreporter.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/d3dcompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/defaults/pref/channel-prefs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/dependentlibs.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/dictionaries/ru.aff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/dictionaries/ru.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/firefox.VisualElementsManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/firefox.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/fonts/EmojiOneMozilla.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/freebl3.chk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/freebl3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/gmp-clearkey/0.1/clearkey.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/gmp-clearkey/0.1/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/install.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/lgpllibs.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/maintenanceservice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/maintenanceservice_installer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/minidump-analyzer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/mozavcodec.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/mozavutil.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/mozglue.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/msvcp140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/nss3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/nssckbi.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/nssdbm3.chk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/nssdbm3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/omni.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/pingsender.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/platform.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/plugin-container.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/plugin-hang-ui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/precomplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/qipcap64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/removed-files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/softokn3.chk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/softokn3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/ucrtbase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/uninstall/helper.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/uninstall/shortcuts_log.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/uninstall/uninstall.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/update-settings.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/updater.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/updater.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mozilla_Firefox/xul.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/acl/export.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/acl/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/acl/parse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/configs/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/configs/proxi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/configs/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/ExportController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/MainController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/controllers/ParseController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/core/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/lib/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/lib/dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/lib/exportJson.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/lib/parse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/Export.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/models/Parse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/results/links/Biochemicals_and_Pharmaceutical_Chemicals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/results_copy/links/Biochemicals_and_Pharmaceutical_Chemicals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/errors/403.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/errors/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/layouts/default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/main/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/view/parse/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myscript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/application.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/chrome/icons/default/default32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/chrome/icons/default/default48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/chrome/icons/default/slimerjswin.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/omni.ja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/phantom-protocol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/slimerjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/slimerjs-node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/slimerjs.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/slimerjs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/ghostdriver.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/hub_register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/inputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/lastupdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/router_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/session_manager_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/session_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/shutdown_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/status_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/request_handlers/webelement_request_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/session.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/console++.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/har.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/parseuri.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/uuid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/active_element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/clear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/clear_local_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/clear_session_storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/click.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/default_content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/deps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/double_click.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/drag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/execute_async_script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/execute_script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/execute_sql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/find_element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/find_elements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/focus_on_element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/frame_by_id_or_name.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/frame_by_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_appcache_status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_attribute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_attribute_value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_current_position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_element_from_cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_frame_window.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_in_view_location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_local_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_local_storage_keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_local_storage_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_location_in_view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_session_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_session_storage_keys.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_session_storage_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_top_left_coordinates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_value_of_css_property.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_window_position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/get_window_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/is_displayed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/is_enabled.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/is_online.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/is_selected.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/lastupdate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/move_mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/pinch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/remove_local_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/remove_session_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/right_click.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/rotate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/scroll_into_view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/scroll_mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/set_local_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/set_session_storage_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/set_window_position.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/set_window_size.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/submit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/swipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/tap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/third_party/webdriver-atoms/type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/webdriver_atoms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slimerjs-1.0.0/vendors/ghostdriver/webelementlocator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/ParseController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/view/parse/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/models/Parse.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/lib/parse.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findFirefox</find>
+      <find>SLIMERJSLAUNCHER</find>
+      <find>phpQu</find>
+      <find>type</find>
+      <find>insert</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/slimerjs-1.0.0/go.bat" />
+        <option value="$PROJECT_DIR$/slimerjs-1.0.0/slimerjs.bat" />
+        <option value="$PROJECT_DIR$/myscript2.js" />
+        <option value="$PROJECT_DIR$/go.bat" />
+        <option value="$PROJECT_DIR$/myscript.js" />
+        <option value="$PROJECT_DIR$/application/core/View.php" />
+        <option value="$PROJECT_DIR$/application/configs/routes.php" />
+        <option value="$PROJECT_DIR$/application/acl/parse.php" />
+        <option value="$PROJECT_DIR$/application/configs/db.php" />
+        <option value="$PROJECT_DIR$/application/controllers/mainController.php" />
+        <option value="$PROJECT_DIR$/application/models/Main.php" />
+        <option value="$PROJECT_DIR$/application/models/parse.php" />
+        <option value="$PROJECT_DIR$/application/view/main/main.php" />
+        <option value="$PROJECT_DIR$/application/controllers/MainController.php" />
+        <option value="$PROJECT_DIR$/application/controllers/ExportController.php" />
+        <option value="$PROJECT_DIR$/application/models/Export.php" />
+        <option value="$PROJECT_DIR$/application/configs/proxi.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index2.php" />
+        <option value="$PROJECT_DIR$/application/core/Model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/ParseController.php" />
+        <option value="$PROJECT_DIR$/application/view/parse/main.php" />
+        <option value="$PROJECT_DIR$/application/lib/parse.php" />
+        <option value="$PROJECT_DIR$/application/models/Parse.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1280" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="sistem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\sistem\application\results_copy" />
+      <recent name="D:\OSPanel\domains\sistem" />
+      <recent name="D:\OSPanel\domains\sistem\application\view\errors" />
+      <recent name="D:\OSPanel\domains\sistem\application\acl" />
+      <recent name="D:\OSPanel\domains\sistem\application" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\sistem\application" />
+      <recent name="D:\OSPanel\domains\sistem" />
+      <recent name="D:\OSPanel\domains\sistem\application\lib" />
+      <recent name="D:\OSPanel\domains\sistem\application\core" />
+      <recent name="D:\OSPanel\domains\sistem\application\results\links" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef113828-a02a-4332-bec1-d7b66a1e8f28" name="Default Changelist" comment="" />
+      <created>1572362869810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572362869810</updated>
+      <workItem from="1572362874408" duration="55079000" />
+      <workItem from="1572808205294" duration="51928000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107007000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1380" height="742" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20619336" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/slimerjs-1.0.0/slimerjs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yandex.txt" />
+    <entry file="file://$PROJECT_DIR$/slimerjs-1.0.0/go.bat" />
+    <entry file="file://$PROJECT_DIR$/error.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slimerjs-1.0.0/slimerjs.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscript2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myscript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22781" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/acl/main.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/acl/export.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/.php" />
+    <entry file="file://$PROJECT_DIR$/application/acl/parse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/view/layouts/default.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/view/main/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/configs/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/configs/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/MainController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/ExportController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" column="22" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/lib/exportJson.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Export.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2864">
+          <caret line="2275" column="27" selection-start-line="2275" selection-start-column="22" selection-end-line="2275" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="52" column="4" lean-forward="true" selection-start-line="52" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/lib/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/results_copy/links/Biochemicals_and_Pharmaceutical_Chemicals.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret column="1491" lean-forward="true" selection-end-column="1483341" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/results/links/Biochemicals_and_Pharmaceutical_Chemicals.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret column="981" lean-forward="true" selection-end-column="1458221" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/ParseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="79" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/view/parse/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/lib/parse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/configs/proxi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="66" column="2" selection-start-line="66" selection-start-column="2" selection-end-line="66" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Parse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
